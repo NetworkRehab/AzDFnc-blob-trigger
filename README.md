@@ -1,0 +1,1 @@
+# AzDFnc-blob-trigger
